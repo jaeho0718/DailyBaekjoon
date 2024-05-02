@@ -5,4 +5,5 @@
 
 |날짜|알고리즘유형|문제번호|풀이|
 |:-:|:-:|:-:|:-:|
-|2024/05/01|자료구조|[1158](https://www.acmicpc.net/problem/1158)|[ex1158.c](/DataStructure/ex1158.c)
+|2024/05/01|자료구조|[1158](https://www.acmicpc.net/problem/1158)|[ex1158.c](/DataStructure/ex1158.c)|
+|2024/05/02|자료구조|[1764](https://www.acmicpc.net/problem/1764)|[ex1764.c](/DataStructure/ex1764.c)|
