@@ -7,3 +7,4 @@
 |:-:|:-:|:-:|:-:|
 |2024/05/01|자료구조|[1158](https://www.acmicpc.net/problem/1158)|[ex1158.c](/DataStructure/ex1158.c)|
 |2024/05/02|자료구조|[1764](https://www.acmicpc.net/problem/1764)|[ex1764.c](/DataStructure/ex1764.c)|
+|2024/05/03|자료구조|[1966](https://www.acmicpc.net/problem/1966)|[ex1966.c](/DataStructure/ex1966.c)|
