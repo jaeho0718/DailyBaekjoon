@@ -10,3 +10,4 @@
 |2024/05/03|자료구조|[1966](https://www.acmicpc.net/problem/1966)|[ex1966.c](/DataStructure/ex1966.c)|큐|
 |2024/05/04|자료구조|[10815](https://www.acmicpc.net/problem/10815)|[ex10815.c](/DataStructure/ex10815.c)|이진탐색|
 |2024/05/05|자료구조|[1927](https://www.acmicpc.net/problem/1927)|[ex1927.c](/DataStructure/ex1927.c)|최소힙|
+|2024/05/06|자료구조|[3190](https://www.acmicpc.net/problem/3190)|[ex3190.c](/DataStructure/ex3190.c)|데크|
