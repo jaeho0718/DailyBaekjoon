@@ -12,3 +12,4 @@
 |2024/05/05|자료구조|[1927](https://www.acmicpc.net/problem/1927)|[ex1927.c](/DataStructure/ex1927.c)|최소힙|
 |2024/05/06|자료구조|[3190](https://www.acmicpc.net/problem/3190)|[ex3190.c](/DataStructure/ex3190.c)|데크|
 |2024/05/07|자료구조|[5430](https://www.acmicpc.net/problem/5430)|[ex5430.c](/DataStructure/ex5430.c)|데크|
+|2024/05/08|자료구조|[17298](https://www.acmicpc.net/problem/17298)|[ex17298.c](/DataStructure/ex17298.c)|스택|
