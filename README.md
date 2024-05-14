@@ -16,4 +16,5 @@
 |2024/05/09|자료구조|[1717](https://www.acmicpc.net/problem/1717)|[ex1717.c](/DataStructure/ex1717.c)|분리 집합|
 |2024/05/10|자료구조|[1918](https://www.acmicpc.net/problem/1918)|[ex1918.c](/DataStructure/ex1918.c)|스택|
 |2024/05/11|자료구조|[1715](https://www.acmicpc.net/problem/1715)|[ex1715.c](/DataStructure/ex1715.c)|최소힙|
-|2024/05/12|ICPC|[5372](https://www.acmicpc.net/problem/5372)|[ex5372.c](/ICPC/ex5372.c)|큐브 시뮬레이션|
+|2024/05/12|ICPC|[5372](https://www.acmicpc.net/problem/5372)|[ex5372.c](/ICPC/ex5372.c)|큐브 시뮬레이션||2024/05/13|자료구조|[11279](https://www.acmicpc.net/problem/11279)|[ex11279.c](/DataStructure/ex11279.c)|최대 힙|
+|2024/05/13|자료구조|[11279](https://www.acmicpc.net/problem/11279)|[ex11279.c](/DataStructure/ex11279.c)|최대 힙|
