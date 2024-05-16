@@ -20,3 +20,4 @@
 |2024/05/13|자료구조|[11279](https://www.acmicpc.net/problem/11279)|[ex11279.c](/DataStructure/ex11279.c)|최대 힙|
 |2024/05/14|자료구조|[2493](https://www.acmicpc.net/problem/2493)|[ex2493.c](/DataStructure/ex2493.c)|스택|
 |2024/05/15|자료구조|[1655](https://www.acmicpc.net/problem/1655)|[ex1655.c](/DataStructure/ex1655.c)|최소 힙 최대 힙을 이용한 중간값|
+|2024/05/16|자료구조|[10799](https://www.acmicpc.net/problem/10799)|[ex10799.c](/DataStructure/ex10799.c)|스택|
